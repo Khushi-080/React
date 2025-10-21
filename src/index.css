@@ -66,3 +66,19 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.card{
+  background-color: pink;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.parent{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.prop1{
+  width: 300px;
+  border: 1px solid black;
+  border-width: 100px;
+}
